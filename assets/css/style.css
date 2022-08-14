@@ -1,19 +1,37 @@
 html, body {
     height: 100%;
-    width:100%;
+    width: 100%;
 }
 .navbar {
     padding: 1% 0;
     font-size: 1.2em;
 }
+
 .navbar-brand {
     min-height: 55px;
     padding: 0 15px 5px;
 
 }
-.navbar-default .navbar-nav li a  {
+.navbar-default .navbar-nav li a {
     color: #00be19;
 }
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
     color: #FFF;
+}
+
+#home {
+
+    background: url ("assets/images/mountains.jpeg") no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    
+}
+.landing-text {
+
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }

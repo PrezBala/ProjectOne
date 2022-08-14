@@ -3,6 +3,7 @@ html, body {
     width: 100%;
 }
 .navbar {
+    background-color: #d8a4b0;
     padding: 1% 0;
     font-size: 1.2em;
 }
@@ -21,7 +22,7 @@ html, body {
 
 #home {
 
-    background: url ("assets/images/mountains.jpeg") no-repeat center center fixed;
+    background:lightblue url("mountains.jpeg") no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;

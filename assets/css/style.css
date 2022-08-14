@@ -3,7 +3,7 @@ html, body {
     width: 100%;
 }
 .navbar {
-    background-color: #d8a4b0;
+    background-color: #777172;
     padding: 1% 0;
     font-size: 1.2em;
 }
@@ -14,7 +14,7 @@ html, body {
 
 }
 .navbar-default .navbar-nav li a {
-    color: #00be19;
+    color: #ffffff;
 }
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
     color: #FFF;

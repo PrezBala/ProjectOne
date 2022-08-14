@@ -22,7 +22,7 @@ html, body {
 
 #home {
 
-    background:lightblue url("mountains.jpeg") no-repeat center center fixed;
+    background:url(samuraiblossom.jpg) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;

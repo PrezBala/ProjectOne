@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Permanent+Marker&display=swap');
 
 html, body {
     height: 100%;
@@ -24,7 +24,7 @@ html, body {
 }
 
 h1 {
-    font-family: Roboto, sans-serif;
+    font-family: Permanent Marker, sans-serif;
     letter-spacing: 5px;
     text-align: center;
     color: #E45845;
@@ -99,7 +99,7 @@ h4 {
     width: 100%;
 }
 #fixed {
-    background:url(samuraiblossom.jpg) no-repeat center center fixed;
+    background:url(background.jpg) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
@@ -131,7 +131,7 @@ footer {
 
 @media (max-width: 768px) {
     .landing-text h1 {
-        font-size:250%;
+        font-size:220%;
     }
     .fa {
         font-size: 20px;

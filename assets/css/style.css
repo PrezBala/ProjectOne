@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto&display=swap');
+
 html, body {
     height: 100%;
     width: 100%;
 }
+
 .navbar {
-    background-color: #777172;
+    background-color: #312F33;
     padding: 1% 0;
     font-size: 1.2em;
 }
@@ -17,7 +20,35 @@ html, body {
     color: #ffffff;
 }
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active {
-    color: rgb(228, 95, 157);
+    color: #E45845;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #E45845;
+}
+
+h2 {
+    font-family: Nunito, sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #E45845;
+}
+
+h3 {
+    font-family: Nunito, sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: Nunito, sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #E45845;
 }
 
 #home {
@@ -57,7 +88,7 @@ html, body {
 }
 
 .landing-text h1 {
-    color: rgb(233, 142, 142);
+    color: #E45845;
     font-size: 600%;
     font-weight: 700;
 }
@@ -78,7 +109,7 @@ html, body {
 }
 footer {
     width: 100%;
-    background-color: #777172;
+    background-color: #312F33;
     padding: 5% 5% 10% 5%;
     color: #FFF;
 }
@@ -90,7 +121,7 @@ footer {
 
 }
 .fa:hover {
-    color:  rgb(233, 142, 142);
+    color:  #E45845;
     text-decoration: none;
 
 }
@@ -100,7 +131,7 @@ footer {
 
 @media (max-width: 768px) {
     .landing-text h1 {
-        font-size:300%;
+        font-size:250%;
     }
     .fa {
         font-size: 20px;

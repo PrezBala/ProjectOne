@@ -262,57 +262,57 @@ h4 {
 .img-1{
     grid-area: img-1;
     min-height: 51.5rem;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal1.jpg");
 }
 .img-1-portugese{
     grid-area: img-1-portugese;
     min-height: 51.5rem;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal2.jpg");
 }
 .img-1-madrid{
     grid-area: img-1-madrid;
     min-height: 51.5rem;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal3.jpg");
 }
 .img-2{
     grid-area: img-2;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal4.jpg");
 }
 .img-2-portugese{
     grid-area: img-2-portugese;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal5.jpg");
 }
 .img-2-madrid{
     grid-area: img-2-madrid;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal6.jpg");
 }
 .img-3{
     grid-area: img-3;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal7.jpg");
 }
 .img-3-portugese{
     grid-area: img-3-portugese;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal8.jpg");
 }
 .img-3-madrid{
     grid-area: img-3-madrid;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal9.jpg");
 }
 .img-4{
     grid-area: img-4;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal10.jpg");
 }
 .img-4-portugese{
     grid-area: img-4-portugese;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal11.jpg");
 }
 .img-4-madrid{
     grid-area: img-4-madrid;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal12.jpg");
 }
 .img-5{
     grid-area: img-5;
-    background-image: url("../images/galleryimages/samlogo.jpg");
+    background-image: url("../images/galleryimages/gal13.jpg");
 }
 .img-5-portugese{
     grid-area: img-5-portugese;

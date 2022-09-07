@@ -66,21 +66,6 @@ h4 {
     
 }
 
-#about {
-
-    background:url(aboutus1.jpg) no-repeat center center fixed;
-    display: table;
-    height: 50%;
-    position: relative;
-    width: 100%;
-    background-size: cover;
-
-         /* animates zoom effect on loading page */
-         animation-name: hero-image-zoom;
-         animation-duration: 8s;
-         animation-fill-mode: forwards;
-    
-}
 
  /* creates the level of zoom for the hero image */
 

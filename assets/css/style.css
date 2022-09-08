@@ -271,7 +271,7 @@ header {
 
 /*Form*/
 .form-area {
-    color: #ffffff;
+    color: #E45845;
     max-width: 1100px;
     height: 750px;
     padding: 5% 10% 10% 10%;
@@ -281,7 +281,7 @@ header {
 
 .text-input-small {
     background: transparent;
-    color: #000000;
+    color: #E45845;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -291,7 +291,7 @@ header {
 
 .text-input-big {
     background: transparent;
-    color: #000000;
+    color: #E45845;
     width: 100%;
     height: 250px;
     margin: 5px 0 20px 0;

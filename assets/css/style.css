@@ -371,9 +371,23 @@ footer {
 }
 
 
+@media (max-width: 1280px) {
+    .landing-text h1 {
+        font-size:170%;
+    }
+    .landing-text h3 {
+        font-size:100%;
+    }
+    .fa {
+        font-size: 20px;
+        padding: 10px;
+    }
+    .icon {
+        padding-top: 5%;
+        max-width: 100px;
 
-
-
+    }
+}
 @media (max-width: 768px) {
     .landing-text h1 {
         font-size:170%;
@@ -383,6 +397,24 @@ footer {
     }
     .fa {
         font-size: 20px;
+        padding: 10px;
+    }
+    .icon {
+        padding-top: 5%;
+        max-width: 100px;
+
+    }
+}
+
+@media (max-width: 320px) {
+    .landing-text h1 {
+        font-size:170%;
+    }
+    .landing-text h3 {
+        font-size:100%;
+    }
+    .fa {
+        font-size: 40px;
         padding: 10px;
     }
     .icon {

@@ -21,7 +21,6 @@ The goal of this project is to entice viewers with an interest in the historical
     + [Home Page](#home-page)
     + [Gallery Page](#about-us-page)
     + [Contact Us Page](#contact-us-page)
-    + [Thank You Page](#thank-you-page)
     + [404 Error Page](#404-error-page)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
@@ -76,7 +75,7 @@ The main goal for the business owner is to have this website serve as an online 
 + I would like to use the contact form to book a table or check availability of certain types of foods.
 
 ## Wireframes
-The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [Balsamiq Wireframes](https://balsamiq.com/).
+The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [MockPlus](https://user.mockplus.com/signin?next=https://app.mockplus.com/app).
 
 <img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/wireframePNG.png">
 

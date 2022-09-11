@@ -2,9 +2,9 @@
 
 <img src= "https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/platforms.jpg">
 
-This is the website of La Rosa restaurant, a newly opened restaurant in County Limerick, IRELAND. The website will serve as a vital online hub for new and returning customers to gain information about the new restaurant, and for local customers to consider it a4 a prominent option for eating out.
+This website is a historical detail of the Shogun and the Samurai era. Detailing the hierarchy and armaments the warriors wore during the 12th century in Japan. The website viewers are also able to view a gallery showcasing the types of Samurai equipment used and also view two videos from youtube giving a brief explanation on the Samurai and Shogun titles.
 
-The main aim of this project is to construct an aesthetic, easily-navigable, responsive and modern website which greatly helps the marketing potential of the newly opened restaurant. It will be constructed using HTML & CSS web coding methods.
+The goal of this project is to entice viewers with an interest in the historical background of the Samurai era to a easily-navigational, aesthirical appealing, responsive website.
 
 [Live link to website](https://kevinjohnkiely.github.io/la-rosa-restaurant-project-1/)
 
@@ -12,16 +12,14 @@ The main aim of this project is to construct an aesthetic, easily-navigable, res
 
 # Table of Contents
 <!-- TOC start -->
-- [UX (User Experience)](#ux-user-experience)
-  * [Website Owner Business Goals](#website-owner-business-goals)
+- [User Experience)](#ux-user-experience)
+  * [Website Goal](#website-owner-business-goals)
   * [User Goals](#user-goals)
-  * [User Stories](#user-stories)
   * [Wireframes](#wireframes)
 - [Features](#features)
     + [Common Elements](#common-elements)
     + [Home Page](#home-page)
-    + [About Us Page](#about-us-page)
-    + [Menu Page](#menu-page)
+    + [Gallery Page](#about-us-page)
     + [Contact Us Page](#contact-us-page)
     + [Thank You Page](#thank-you-page)
     + [404 Error Page](#404-error-page)

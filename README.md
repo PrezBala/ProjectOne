@@ -77,9 +77,9 @@ The main goal for the business owner is to have this website serve as an online 
 ## Wireframes
 The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [MockPlus](https://user.mockplus.com/signin?next=https://app.mockplus.com/app).
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/wireframePNG.png">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/Homepage1.jpg">
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
 <hr>
 

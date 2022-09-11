@@ -1,6 +1,6 @@
 # Emperors Shogun - Project 1
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/site-responsive.png">
+<img src= "https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/platforms.jpg>
 
 This is the website of La Rosa restaurant, a newly opened restaurant in County Limerick, IRELAND. The website will serve as a vital online hub for new and returning customers to gain information about the new restaurant, and for local customers to consider it as a prominent option for eating out.
 

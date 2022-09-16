@@ -78,17 +78,23 @@ The common elements across all 3 pages are the Header and Footer sections.
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/footer1.jpg">
 
 ### Home Page
-This is the landing page of the site which is what the user first sees on loading, and therefore needs to be visually appealing to gain the users attention. This page is comprised of the following elements:
-+ Hero Image - This section spans the full page width and will have relevant image content to give the user a nice first impression of the restaurant. It will have a minimally invasive animation added to attract more attention. Some informative text will be overlayed.
+This is the main landing page which the user will be first presented with. By using a eye catching image and colours i hope to keep users interested in viewing the site. This page contains the following elements below:
+
++ Hero Image - The image spans across the full width of the page and very eye catching showing a samurai looking towards the direction of a cherry tree. I've also added text over the central part of the image with the name of the site 'Emperors Shogun' with smaller text 'and the samurai guards'.
+This is in a font style which is in a japanese calligraphy style.
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/mainimage1.jpg">
 
-+ Welcome Text - This section lies underneath the hero image and will be a short description of the restaurant.
++ Descriptive text - This section is beneath the main hero image and highlights on three points. 'Who were the Shogun and the Samurai" the 'Samurai Armor' and the 'Samurai Weapon'. I've added text detailing each of the 3 sections and also added relevant imagery beside the texts. 
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/text1.jpg">
 
-+ Call-to-action Boxes - This is the third and final section of content that is unique to the homepage. A trio of boxes with related image content and a suitable link to each section of the site (About Us, Menu, Contact Us). This will enhance the user experience by showing them clearly what other content areas are available on the website, and giving them another option to browse rather than just using the main navigation menu.
++ Secondary Hero Image - This image is added for aesthetic reasons to make the website more visually appealing and also to show an image of what the website is based on, to keep the user further interested.
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/mainimage2.jpg">
 
-+ Call-to-action Boxes - This is the third and final section of content that is unique to the homepage. A trio of boxes with related image content and a suitable link to each section of the site (About Us, Menu, Contact Us). This will enhance the user experience by showing them clearly what other content areas are available on the website, and giving them another option to browse rather than just using the main navigation menu.
++ Additional Descriptive text - This is the final descriptive text on this specific page, answering a question which is quite common for this part of Japanese history 'What is the difference between a Shogun and a Samurai' I've also added an image on the right side of the text for the page aesthetics.
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/text2.jpg">
 
 ### Gallery Page

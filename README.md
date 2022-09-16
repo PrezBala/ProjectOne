@@ -98,16 +98,19 @@ This is in a font style which is in a japanese calligraphy style.
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/text2.jpg">
 
 ### Gallery Page
-This is the second page of the website and serves as a description of the owners and history of the restaurant. 2 medium sized images showing the owner and the premises will be placed alongside the relevant description text. This gives the user a good feel for what the business is all about by showing the point of contact (the owner), and displaying the person(s) behind the company.
+
+This is the second page of the website and showcases 17 images and 2 videos (linked to youtube). The images are arranged out in a grid area and each image when hovered over shows a text commenting on what the image relates to. I've also ensured when selecting the image this will open a new page allowing the user to view the image clearly. 
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/gallery1.jpg">
 
-Videos are below
+Further down the Gallery page, i've added text using the same Japanese calligraphy style/color i've used on the other page for consistency. The text advises the user to view the videos linked directly to youtuve for further information on the 'Life of a Samurai' and a quick 'Shogunate Japan in 2 minutes".
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/gallery2.jpg">  
 
 ### Contact us page
 This page clearly displays the contact details of the restaurant and also a contact form should the user wish to submit any queries in that manner.
+
+The Contact us page contains a table which can be filled on the four sections. I ensured the background of the table matches the header/footer color for aesthetics and also the text to be easily visible. I've also incorprated a response for the email address field mentioning a '@' must be included before selecting the button 'Send Message!'
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/contactus1.jpg">
 

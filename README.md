@@ -67,11 +67,14 @@ The following image shows a wireframe of each of the 4 pages of the site. These 
 # Features
 
 ### Common Elements
-In terms of general structure throughout the website, the common elements across all 4 pages are the Header and Footer sections
-+ The Header - This section will appear at the top of all pages and contains a Logo which stacks to the left, and the navigation menu which is positioned on the right. Both logo and menu will respond accordingly to differing screen sizes. The navigation menu will display which page is currently selected on the site, giving the user good feedback as to their whereabouts.
+The common elements across all 3 pages are the Header and Footer sections.
+
++ The Header- This sections appears across the top on all 3 pages and also contains a samurai helmet logo on the left. When selecting the helmet the user will return to the top of the homepage. The navigation menu is also positioned on the right. Both the logo and menu will respond to the screen sizes used. The navigation menu on certain phones will use a 'burger' style selection menu.
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/header1.jpg">
 
-+ The Footer - This section appears on the bottom of all pages and will contain some copyright information and a date specifying how recently the site has been updated, again giving the user good feedback that this site is actively maintained.
++ The Footer - The section appears across the bottom on all 3 pages. There is a contact us section on the left with a button that will take the user directly to the contact us page. In the centre of the footer is the social links for Facebook,Twitter,Googlemail and Twitter and on the right is a samurai logo for aesthetics.
+
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/footer1.jpg">
 
 ### Home Page
@@ -108,21 +111,21 @@ This page is used to catch any errors caused by the user entering a URL that doe
 
 <img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/404.png">
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
 <hr>
 
 # Technologies Used
 The following is a list of the various technologies employed to build this project
-+ HTML5 - Hypertext markup language used to give the website its overall structure and semantic value.
++ HTML - Hypertext markup language used to give the website its overall structure and semantic value.
++ Bootstrap - Used to assist in creating skeleton of site, aided in creation of header / footer style.
 + CSS3 - Cascading Style Sheets used to apply consistent styles across all sections of the application.
 + Google Fonts - Font is embedded into the website by way of importing the correct google font link into the linked CSS file.
 + Font Awesome - Fontawesome toolkit imported into HTML files and its icons used to show social media links.
 + Git, Github & Gitpod - Used to continuously develop and deploy the incremental versions of the application.
-+ Balsamiq Wireframes - Downloadable software to create the wireframe mockups.
-+ GIMP - GNU Image Manipulation Program, used to resize, crop & optimize the image content for embedding on the website.
++ Mockup - Assisted in creation of wireframe mockups.
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
 <hr>
 
@@ -230,7 +233,7 @@ During development of the project, I began to consider a couple of methods on ho
 
 + In the footer, there is text showing when the website was last updated, this is just hardcoded at the moment, but in a future version this website could be connected to a backend with programming scripts to auto-populate this piece of text with the current time and date.
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
 <hr>
 
@@ -252,7 +255,7 @@ During development of the project, I began to consider a couple of methods on ho
 3. Extract the zip file to your local machine.
 4. Run the index.html file in any browser of your choice.
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
 <hr>
 
@@ -293,4 +296,4 @@ The social media icons on the contact page were sourced from Font Awesome [https
 ## Text Content
 All text content across the application was composed by myself from scratch.
 
-[Back to Table of Contents](https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1#table-of-contents)
+[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 

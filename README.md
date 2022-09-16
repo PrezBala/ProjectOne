@@ -69,7 +69,7 @@ The following image shows a wireframe of each of the 4 pages of the site. These 
 ### Common Elements
 In terms of general structure throughout the website, the common elements across all 4 pages are the Header and Footer sections
 + The Header - This section will appear at the top of all pages and contains a Logo which stacks to the left, and the navigation menu which is positioned on the right. Both logo and menu will respond accordingly to differing screen sizes. The navigation menu will display which page is currently selected on the site, giving the user good feedback as to their whereabouts.
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/Header1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/header1.jpg">
 
 + The Footer - This section appears on the bottom of all pages and will contain some copyright information and a date specifying how recently the site has been updated, again giving the user good feedback that this site is actively maintained.
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/footer1.jpg">

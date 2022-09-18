@@ -46,7 +46,7 @@ The goal of this project is to entice viewers with an interest in the historical
 <hr>
 
 # UX (User Experience)
-## Website Owner Business Goals
+## Website Owner Goals
 
 The main purpose for the website is to serve as a central hub of information on the Samurai / Shogun Era of Japan. Through informative text and images/videos this will entice the user further on the history of Japan. With several images showcasing the armaments and also a contact us page so if users have additional questions or any queries they can contact the website host.
 
@@ -115,13 +115,6 @@ The Contact us page contains a table which can be filled on the four sections. I
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/contactus1.jpg">
 
 
-### 404 Error Page
-This page is used to catch any errors caused by the user entering a URL that does not exist on the website.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/404.png">
-
-[Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
-
 <hr>
 
 # Technologies Used
@@ -154,46 +147,6 @@ During development of this application, I regularly tested the responsiveness of
 + 400px width and below (ultra small screen size)*
 
 *Originally I had intended to use just the first 2 screen size breakpoints, however the main menu was not appearing as required using the 600px breakpoint so I added a smaller 400px rule.
-
-### The Header
-The header of the site, comprising of logo and navigation bar, spans the full width of the page on higher screen sizes above 800px, however once the viewport reduces to below this width, the menu stacks underneath the logo, with the necessary padding and margins adjusted so it looks well on even smaller viewports below 600 and 400px widths.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/header-smaller.png">
-
-### The Footer
-The footer of the website is a very simple feature with a text paragraph only and this responds well to various screen sizes, the text simply moving onto multiple lines on the smaller viewports.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/footer-smaller.png">
-
-### Banner Image
-The banner images which appear on all pages except for the homepage, resize naturally on different screen sizes due to a width of 100% being applied to the image. However, I felt that on smaller screen sizes this squashed the image too much, and made it far too small to view. Thus, on the smaller viewports I made sure this banner image had a minimum height and also had the "object fit" property so that it scaled without any skewing or distortion of the original image.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/banner-smaller.png">
-
-### Hero Image
-The hero image on the homepage resizes automatically for smaller viewports, the caption text and padding that is overlayed also resizes due to reduced font size and padding.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/hero-smaller.png">
-
-### Homepage Content - Intro Text & Call To Action Panels
-The introductory text section of homepage (image below, left) scales nicely to smaller screen widths as it is just centered text with paddings and margins adjusted accordingly. The Call To Action section of the homepage (image below, right) originates as a panel with 3 columns showing images and links, but on less than 800px screen widths, this changes to a single column with all 3 boxes stacked vertically.
-
-<table>
-<tr>
-<td width="45%"><img style="width: 100%" src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/intro-smaller.png"></td>
-<td width="45%"><img style="width: 100%"  src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/call-to-action-smaller.png"></td>
-</tr>
-</table>
-
-### About Us Page
-The about us page content is 2 columns of 2 content boxes with alternating blocks of text and image on full size screen sizes, but on 800px and below the content stacks on top of each other into one column, with padding and margin adjustments to suit.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/about-smaller.png">
-
-### Menu, Contact, 404 and Thank You Pages
-All content on these pages is positioned in one central column so only margin needed to be adjusted for smaller screen sizes. In the contact page, the form div needed its percentage width to be reduced accordingly. Also on the contact page, the social media icons and the submit/reset buttons stack underneath each other if the site is viewed on very small viewport sizes.
-
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/contact-smaller.png">
 
 ## User Testing
 All user stories and journeys passed successfully as all required content was available for both first-time and returning users to the site. The navigation was clearly accessible on both desktop and mobile screen sizes, and all information was presented on clearly legible texts with contrasting backgrounds. Graphic elements, while enhancing the look of the site did not detract from the user experience or distract the user while browsing.

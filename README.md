@@ -108,22 +108,22 @@ Further down the Gallery page, i've added text using the same Japanese calligrap
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/gallery2.jpg">  
 
 ### Contact us page
-This page clearly displays the contact details of the restaurant and also a contact form should the user wish to submit any queries in that manner.
-
-The Contact us page contains a table which can be filled on the four sections. I ensured the background of the table matches the header/footer color for aesthetics and also the text to be easily visible. I've also incorprated a response for the email address field mentioning a '@' must be included before selecting the button 'Send Message!'
+The Contact us page contains a table which can be filled on the four sections. I ensured the background of the table matches the header/footer color for aesthetics and also the text to be easily visible. This page primary function is for users to submit any additional questions they may have on the historic events during the Shogun dynasty. 
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/contactus1.jpg">
 
 
 <hr>
 
-# Technologies Used
-The following is a list of the various technologies employed to build this project
+# Technologies Used / CREDITS
+
 + HTML - Hypertext markup language used to give the website its overall structure and semantic value.
-+ Bootstrap - Used to assist in creating skeleton of site, aided in creation of header / footer style.
++ Google Fonts - All fonts were taken from Google Fonts
++ Bootstrap -  Aided in creation of header / footer style and setting the frameworks to be worked on.
 + CSS3 - Cascading Style Sheets used to apply consistent styles across all sections of the application.
-+ Google Fonts - Font is embedded into the website by way of importing the correct google font link into the linked CSS file.
-+ Font Awesome - Fontawesome toolkit imported into HTML files and its icons used to show social media links.
++ Color Scheme -  was taken from: [Coolors](https://coolors.co/)
++ Structure of the readme file was taken from the sample readme from Love Running: [LoveRunning](https://github.com/Code-Institute-Solutions/readme-template)
++ Font Awesome - All icons (Social icons) were taken from Font Awesome
 + Git, Github & Gitpod - Used to continuously develop and deploy the incremental versions of the application.
 + Mockup - Assisted in creation of wireframe mockups.
 
@@ -134,29 +134,24 @@ The following is a list of the various technologies employed to build this proje
 # Testing
 
 ## Cross-Browser Testing
-I have tested this website across the 3 main web browsers used today, Google Chrome, Microsoft Edge & Mozilla Firefox. The site loaded consistently across all 3 and no discrepancies were detected.
+I have tested this website across the 3 main web browsers Google Chrome, Microsoft Edge & Safari (using my MAC). The site loaded consistently across all 3 with no issues detected.
 
 ## Compatibility Testing
-I tested the site across differing devices, such as the Nokia 4.2 smartphone with Android 11, Lenovo Ideapad 3 laptop with different browsers on Windows 11, and on a Dell Studio laptop with different browsers on a Linux Mint operating system. No issues were reported between these devices.
+I tested the site across differing devices, using my old model iPhone 8, Dell Laptop and my iMac. I've used several different browsers and no issues were detected between any of these devices.
 
 ## Responsiveness Testing
-During development of this application, I regularly tested the responsiveness of the site using Google Chromes Developer tools. In my CSS media query rules, I used 3 separate break points to design the site for different screen sizes.
-
+-----------------------------
+Throughout the process of creating the site, i've used Google Chromes Developer tools to test the responsiveness of the site. I've used 3 seperate dimensions to test and design the site for different screen sizes. 
+ 
 + 800px width and below (medium screen size)
 + 600px width and below (small screen size)
 + 400px width and below (ultra small screen size)*
-
-*Originally I had intended to use just the first 2 screen size breakpoints, however the main menu was not appearing as required using the 600px breakpoint so I added a smaller 400px rule.
+-------------------------------
 
 ## User Testing
 All user stories and journeys passed successfully as all required content was available for both first-time and returning users to the site. The navigation was clearly accessible on both desktop and mobile screen sizes, and all information was presented on clearly legible texts with contrasting backgrounds. Graphic elements, while enhancing the look of the site did not detract from the user experience or distract the user while browsing.
 
-### Contact The Restaurant
-The one use case that needed a little extra testing was the contact form on the Contact page. The user enters the required details in the form, and if any of the fields were blank, the HTML5 validations would kick in as pictured below:
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/contact-validation.png">
-
-Once all details were entered and the form submitted, the user is directed successfully to the Thank You page.
 
 ## Validator Testing
 
@@ -238,7 +233,7 @@ Just one font was used throughout the website, with varying weight for headings 
 [Raleway Font](https://fonts.google.com/specimen/Raleway)
 
 ## Colours
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/colour-scheme.png">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/colourslots.png">
 The colour scheme employed in the project arose from searching for "Rose" Hexademical colour in the following
 website, and using some of the complimentary colour scheme panel.
 

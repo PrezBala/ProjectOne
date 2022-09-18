@@ -52,8 +52,10 @@ The main purpose for the website is to serve as a central hub of information on 
 
 ## User Goals
 ### First-time Users
-+ The user can easily find all the necessary information across the home page with a video on the gallery page to further explain Samurais and Shoguns
++ The user can easily find all the necessary information across the home page.
++ The user can easily navigate to the Gallery page and view all images (which will open a seperate page when selected) and view videos on the gallery page to further explain Samurais and Shoguns.
 + The user can easily find the contact methods if they need to ask business about extra information via the contact us page and also through the footer 
++ The footer contains clear links to Facebook, Twitter, googlemail and Youtube which open in new tabs.
 
 ## Wireframes
 The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [MockPlus](https://user.mockplus.com/signin?next=https://app.mockplus.com/app).
@@ -149,9 +151,9 @@ Throughout the process of creating the site, i've used Google Chromes Developer 
 -------------------------------
 
 ## User Testing
-All user stories and journeys passed successfully as all required content was available for both first-time and returning users to the site. The navigation was clearly accessible on both desktop and mobile screen sizes, and all information was presented on clearly legible texts with contrasting backgrounds. Graphic elements, while enhancing the look of the site did not detract from the user experience or distract the user while browsing.
+I've ensured the navigation was very clearly accessible for all screen sizes (Mobiles and desktops) and that all information were clear to read with backgrounds that do not collide in colors. I also wanted to make the website aesthetically appealing with the scrolling images. 
 
-
+I've also ensured the Contact Us form correctly sends the user to the thankyou page once the data is submitted, and the form data validation works correctly. I attempted to submit without filling out each field, and was presented with a message to fill out the required data (First name, Last name, Email). When attempting to use a non-valid email address in the email field, the relevant error message appeared asking to use the correct format.
 
 ## Validator Testing
 
@@ -226,7 +228,7 @@ During development of the project, I began to consider a couple of methods on ho
 All other HTML and CSS code was composed by myself.
 
 ## Images
-All image content for the project was sourced from [Pexels](https://www.pexels.com/). The logo came from the ICONPACKS website [Link](https://www.iconpacks.net/free-icon/flower-1537.html)
+All image content for the project i found via google images.
 
 ## Fonts
 Just one font was used throughout the website, with varying weight for headings and body text.
@@ -240,12 +242,9 @@ website, and using some of the complimentary colour scheme panel.
 [Canva Complimentary Colours](https://www.canva.com/colors/color-meanings/rose/)
 
 The colours used throughout the website are (and their Hexadecimal code):
-+ Dark Pink #75003A
-+ Medium Pink #FF007F
-+ Light Pink #FF8AC4
-+ Dark Green #00705D
-+ Medium Green #008873
-+ Dark Grey (body text) #3a3a3a
++ Dark Salmon #E45845
++ Peach #FDBD78
++ Dark Grey #312F33
 
 ## Icons
 The social media icons on the contact page were sourced from Font Awesome [https://fontawesome.com/]

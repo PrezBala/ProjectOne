@@ -300,11 +300,11 @@ header {
 }
 
 .text-input-big:hover{
-    border-color: rgba(60, 64, 68, 0.5);
+    border-color: #E45845;
 }
 
 .text-input-small:hover{
-    border-color: rgba(60, 64, 68, 0.5);
+    border-color: #E45845;
 }
 
 .submit-message {

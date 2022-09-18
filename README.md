@@ -170,13 +170,13 @@ The CSS was tested using the validator at [https://jigsaw.w3.org/css-validator/]
 
 I tested the website performance using Lighthouse in Google Chrome Developer Tools, and was satisfied with the results, varying from 95 to 100%. Results are seen below:
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/lighthouse.png">
+<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/lighfgfuse.png">
 
 ## Errors, Bugs or Issues During Development
 
 During development I wanted to use only 2 CSS breakpoints using media queries at 800 and 600px sizes. However the main menu was not rendering properly on some screen sizes below 600px. One method to rectify this was to further reduce padding and text size, but I found doing this would make the link text extremely small on screen sizes on the lower end of the 600px breakpoint. Thus, I introduced an "ultra small" breakpoint for screen sizes 400px and below. The error in question is shown in following image:
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/issue1.png">
+<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/issfgf.png">
 
 This was rectified using the smaller breakpoint and the menu now displays properly on all viewports.
 
@@ -205,11 +205,11 @@ During development of the project, I began to consider a couple of methods on ho
 3. On the following page I clicked on the green Gitpod button, which is accessible having installed the Gitpod extension to Google Chrome browser.
 4. This created my development environment on Gitpod where I began to push the incremental changes to the live hosted site.
 5. To create the hosted site at Github Pages, I navigated to the Github repo settings tab and found the Github pages dedicated section.
-6. From there in the Source dropdown menu I clicked on "main", and then "Save", from which I was supplied a live link that would be ready in a few minutes. Live link is available here [https://kevinjohnkiely.github.io/la-rosa-restaurant-project-1/]
+6. From there in the Source dropdown menu I clicked on "main", and then "Save", from which I was supplied a live link that would be ready in a few minutes. Live link is available here [https://kevinjohnkiely.github.io/la-rosa-restaurant-prosdsdct-1/]
 
 ### To run and test this application on your local machine:
 
-1. Navigate to the Github repo at [https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1]
+1. Navigate to the Github repo at [https://github.com/kevinjohnkiely/la-rosa-restaurant-psdsdect-1]
 2. Click on the Code button, then Download ZIP.
 3. Extract the zip file to your local machine.
 4. Run the index.html file in any browser of your choice.

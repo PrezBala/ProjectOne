@@ -371,6 +371,37 @@ footer {
     max-width: 200px;
 }
 
+input[type=submit] {
+    background-color: #75003A;
+    color: white;
+    padding: 1rem 1.4rem;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=reset] {
+    background-color: #008873;
+    color: white;
+    padding: 1rem 1.4rem;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #FF007F;
+}
+
+input[type=reset]:hover {
+    background-color: #00705D;
+}
+
+#submitted-link {
+    color: #FF007F;
+}
+
+#submitted-link:hover {
+    color: #008873;
+}
 
 @media (max-width: 1280px) {
     .landing-text h1 {

@@ -114,6 +114,10 @@ The Contact us page contains a table which can be filled on the four sections. I
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/contactus1.jpg">
 
+### Submitted page
+The submission page generates once the user has submitted there details across via the contact us form. This page also has a link within the text to take the user back to the home page.
+
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/submitted.jpg">
 
 <hr>
 

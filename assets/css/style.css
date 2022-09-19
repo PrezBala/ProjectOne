@@ -372,7 +372,7 @@ footer {
 }
 
 input[type=submit] {
-    background-color: #75003A;
+    background-color: #FDBD78;
     color: white;
     padding: 1rem 1.4rem;
     border: none;
@@ -380,7 +380,7 @@ input[type=submit] {
 }
 
 input[type=reset] {
-    background-color: #008873;
+    background-color: #646E56;
     color: white;
     padding: 1rem 1.4rem;
     border: none;
@@ -388,19 +388,19 @@ input[type=reset] {
 }
 
 input[type=submit]:hover {
-    background-color: #FF007F;
+    background-color: #FDBD78;
 }
 
 input[type=reset]:hover {
-    background-color: #00705D;
+    background-color: #646E56;
 }
 
 #submitted-link {
-    color: #FF007F;
+    color: #FDBD78;
 }
 
 #submitted-link:hover {
-    color: #008873;
+    color: #646E56;
 }
 
 @media (max-width: 1280px) {

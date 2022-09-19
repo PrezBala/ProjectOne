@@ -243,11 +243,6 @@ h4 {
     
 }
 
-#contact {
-    margin: 3rem;
-}
-
-
 #submitted {
 
     background:url(contactus2.jpg) no-repeat center center fixed;
@@ -260,6 +255,9 @@ h4 {
     
 }
 
+#contact {
+    margin: 3rem;
+}
 
 /*Contact Us Page*/
 header {

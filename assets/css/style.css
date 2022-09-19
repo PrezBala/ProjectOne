@@ -403,6 +403,7 @@ input[type=reset]:hover {
     color: #646E56;
 }
 
+
 @media (max-width: 1280px) {
     .landing-text h1 {
         font-size:170%;

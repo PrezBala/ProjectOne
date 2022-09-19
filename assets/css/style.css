@@ -243,6 +243,17 @@ h4 {
     
 }
 
+#submitted {
+
+    background:url(contactus2.jpg) no-repeat center center fixed;
+    display: table;
+    height: 50%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+
+    
+}
 
 
 /*Contact Us Page*/

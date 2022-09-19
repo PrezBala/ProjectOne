@@ -372,7 +372,7 @@ footer {
 }
 
 input[type=submit] {
-    background-color: #FDBD78;
+    background-color: #646E56;
     color: white;
     padding: 1rem 1.4rem;
     border: none;
@@ -388,7 +388,7 @@ input[type=reset] {
 }
 
 input[type=submit]:hover {
-    background-color: #FDBD78;
+    background-color: #646E56;
 }
 
 input[type=reset]:hover {
@@ -396,7 +396,7 @@ input[type=reset]:hover {
 }
 
 #submitted-link {
-    color: #FDBD78;
+    color: #646E56;
 }
 
 #submitted-link:hover {

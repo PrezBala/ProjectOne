@@ -6,7 +6,7 @@ This website is a historical detail of the Shogun and the Samurai era. Detailing
 
 The goal of this project is to entice viewers with an interest in the historical background of the Samurai era to a easily-navigational, aesthirical appealing, responsive website.
 
-[Live link to website](https://kevinjohnkiely.github.io/la-rosa-restaurant-project-1/)
+[Live link to website](https://prezbala.github.io/ProjectOne/index.html)
 
 <hr>
 
@@ -125,7 +125,7 @@ The submission page generates once the user has submitted there details across v
 
 + HTML - Hypertext markup language used to give the website its overall structure and semantic value.
 + Google Fonts - All fonts were taken from Google Fonts
-+ Bootstrap -  Aided in creation of header / footer style and setting the frameworks to be worked on.
++ Bootstrap -  Aided in creation of header / footer style and setting the frameworks to be worked on. It was an efficeint way of creating the desired layout for my website. 
 + CSS3 - Cascading Style Sheets used to apply consistent styles across all sections of the application.
 + Color Scheme -  was taken from: [Coolors](https://coolors.co/)
 + Structure of the readme file was taken from the sample readme from Love Running: [LoveRunning](https://github.com/Code-Institute-Solutions/readme-template)

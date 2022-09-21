@@ -439,6 +439,15 @@ input[type=reset]:hover {
         max-width: 100px;
 
     }
+    .form-area {
+        color: #E45845;
+        max-width: 780px;
+        height: 750px;
+        padding: 5% 10% 10% 10%;
+        margin: auto;
+        border: 3px solid #000000;
+        background: #3c4044;
+    }
 }
 @media (max-width: 800px) {
     .landing-text h1 {

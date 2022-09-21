@@ -21,7 +21,6 @@ The goal of this project is to entice viewers with an interest in the historical
     + [Home Page](#home-page)
     + [Gallery Page](#about-us-page)
     + [Contact Us Page](#contact-us-page)
-    + [404 Error Page](#404-error-page)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
   * [Cross-Browser Testing](#cross-browser-testing)
@@ -157,16 +156,17 @@ Throughout the process of creating the site, i've used Google Chromes Developer 
 ## User Testing
 I've ensured the navigation was very clearly accessible for all screen sizes (Mobiles and desktops) and that all information were clear to read with backgrounds that do not collide in colors. I also wanted to make the website aesthetically appealing with the scrolling images. 
 
-I've also ensured the Contact Us form correctly sends the user to the thankyou page once the data is submitted, and the form data validation works correctly. I attempted to submit without filling out each field, and was presented with a message to fill out the required data (First name, Last name, Email). When attempting to use a non-valid email address in the email field, the relevant error message appeared asking to use the correct format.
+I've also ensured the Contact Us form correctly sends the user to the thankyou page once the data is submitted, and the form data validation works correctly. I attempted to submit without filling out each field, and was presented with a message to fill out the required data (First name, Last name, Email). When attempting to use a non-valid email address in the email field, the relevant error message appeared asking to use the correct format. I've also added a reset button in case the user wishes to clear all the data on the form and start again. 
 
 ## Validator Testing
 
-The HTML of the website was tested using the validator at [https://validator.w3.org/]. The following bugs were discovered:
+The HTML of the website was tested using the validator at [https://validator.w3.org/]. 
+
 + Duplicate ID tags in Homepage "top-image" and "link-panel".
-+ Trailing closing anchor tags which were leftover from deleting a previous anchor tag in development.
-+ Duplicate ACTION attribute in the contact form html code, code was originally ACTION="POST" when it should have been METHOD="POST".
 
 All of these errors were corrected and now the entire sites pages passes this validator.
+
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/htmlcheck.jpg">
 
 The CSS was tested using the validator at [https://jigsaw.w3.org/css-validator/] and no errors were reported.
 

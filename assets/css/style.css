@@ -350,6 +350,12 @@ header {
 .padding {
     padding: 80px 0;
 }
+
+p { 
+    margin-bottom: 5px; 
+    padding-bottom: 5px; 
+    } 
+    
 .padding img {
     width: 100%;
 }

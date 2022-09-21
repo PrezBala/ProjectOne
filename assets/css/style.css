@@ -456,6 +456,24 @@ input[type=reset]:hover {
         max-width: 100px;
 
     }
+
+    h1 {
+        font-family: Permanent Marker, sans-serif;
+        letter-spacing: 5px;
+        text-align: center;
+        color: #E45845;
+        font-size:150%;
+    }
+
+    .form-area {
+        color: #E45845;
+        max-width: 450px;
+        height: 750px;
+        padding: 5% 10% 10% 10%;
+        margin: auto;
+        border: 3px solid #000000;
+        background: #3c4044;
+    }
 }
 
 @media (max-width: 400px) {

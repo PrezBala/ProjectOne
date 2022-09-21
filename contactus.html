@@ -1,98 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Contact us | Emperors Shogun</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-</head>
+	<head>
+		<title>Contact us | Emperors Shogun</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+	</head>
 
-<body>
-    
-<nav class="navbar navbar-default navbar-fixed-top">
-    
-    <div class ="container-fluid">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
 
-        <a class="navbar-brand" href="index.html"><img src= "assets/images/homelogo.png" alt="Home logo">
-        </a>
-    </div>
+					<a class="navbar-brand" href="index.html"><img src="assets/images/homelogo.png" alt="Home logo" /> </a>
+				</div>
 
-    <div class="collapse navbar-collapse" id="navbar-collapse-main">
-        <ul class="nav navbar-nav navbar-right">
+				<div class="collapse navbar-collapse" id="navbar-collapse-main">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="gallery.html">Gallery</a></li>
+						<li><a class="active" href="contactus.html">Contact us</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
 
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a class="active" href="contactus.html">Contact us</a></li>
+		<div id="contactus">
+			<div class="landing-text">
+				<br />
+				<br />
+				<br />
+				<br />
 
+				<h1>Contact Us</h1>
 
-              
-        </ul>
-    </div>
-    </div>
-</nav>
+				<!--Contact Us Form Area-->
+				<section class="contact-us">
+					<h3 style="color:#E45845;"><b>Get in touch:</b></h3>
+					<div class="form-area">
+						<form action="submitted.html" method="GET">
+							<label for="firstName">First Name</label>
+							<input id="firstName" name="first_name" type="text" class="text-input-small" placeholder="Enter your name..." required />
+							<label for="lastName">Last Name</label>
+							<input id="lastName" name="last_name" type="text" class="text-input-small" placeholder="Enter your last name..." required />
+							<label for="email">Email Address</label>
+							<input id="email" name="email_address" type="email" class="text-input-small" placeholder="Enter your email..." required />
+							<label for="message">Message</label>
+							<input id="message" name="message" type="text" class="text-input-big" placeholder="Tell us your query..." required />
+							<input type="submit" value="Submit" />
+							<input type="reset" value="Reset Form" />
+						</form>
+					</div>
+				</section>
+			</div>
+		</div>
+		<footer class="container-fluid text-center">
+			<div class="row">
+				<div class="col-sm-4">
+					<h3>Contact Us</h3>
+					<br />
+					<h4>Email us at Shogunsamurai@gmail.com or use the button below</h4>
+					<br />
+					<a href="contactus.html" class="btn btn-info" role="button">Contact us page</a>
+				</div>
 
-<div id="contactus">
-    <div class="landing-text">
-        <br>
-        <br>
-        <br>
-        <br>
-
-    <h1>Contact Us</h1>
-
-        <!--Contact Us Form Area-->
-        <section class="contact-us">
-            <h3 style="color:#E45845;"><b>Get in touch:</b> </h3>
-            <div class="form-area">
-                <form action="submitted.html" method="GET">
-                <label for="firstName">First Name</label>
-                <input id="firstName" name="first_name" type="text" class="text-input-small" placeholder="Enter your name..."  required>
-                <label for="lastName">Last Name</label>
-                <input id="lastName" name="last_name" type="text" class="text-input-small" placeholder="Enter your last name..." required>
-                <label for="email">Email Address</label>
-                <input id="email" name="email_address" type="email" class="text-input-small" placeholder="Enter your email..." required>
-                <label for="message">Message</label>
-                <input id="message" name="message" type="text" class="text-input-big" placeholder="Tell us your query..." required>
-                <input type="submit" value="Submit">
-                <input type="reset" value="Reset Form">
-            </form>
-            </div>
-        </section>
-    </div>
-</div>
-        <footer class="container-fluid text-center">
-            <div class ="row">
-                <div class="col-sm-4">
-                    <h3>Contact Us</h3>
-                    <br>
-                    <h4>Email us at Shogunsamurai@gmail.com or use the button below</h4>
-                    <br>
-                    <a href="contactus.html" class="btn btn-info" role="button">Contact us page</a>
-                </div>
-        
-                <div class="col-sm-4">
-                    <h3>Connect</h3>
-                    <a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook" > </a>
-                    <a href="https://www.twitter.com/"  target="_blank" class="fa fa-twitter"></a>
-                    <a href="https://www.gmail.com/"  target="_blank" class="fa fa-google"></a>
-                    <a href="https://www.youtube.com/"  target="_blank" class="fa fa-youtube"></a>
-                </div>
-                <div class="col-sm-4">
-                    <img src= "assets/images/samtrans.png" alt="Samurai Logo" class="icon">
-        
-                </div>
-            </div>
-        </footer>
-</body>
+				<div class="col-sm-4">
+					<h3>Connect</h3>
+					<a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook"> </a>
+					<a href="https://www.twitter.com/" target="_blank" class="fa fa-twitter"></a>
+					<a href="https://www.gmail.com/" target="_blank" class="fa fa-google"></a>
+					<a href="https://www.youtube.com/" target="_blank" class="fa fa-youtube"></a>
+				</div>
+				<div class="col-sm-4">
+					<img src="assets/images/samtrans.png" alt="Samurai Logo" class="icon" />
+				</div>
+			</div>
+		</footer>
+	</body>
 </html>
-

@@ -459,6 +459,15 @@ input[type=reset]:hover {
 }
 
 @media (max-width: 400px) {
+
+    h1 {
+        font-family: Permanent Marker, sans-serif;
+        letter-spacing: 5px;
+        text-align: center;
+        color: #E45845;
+        font-size:150%;
+    }
+
     .landing-text h1 {
         font-size:170%;
     }

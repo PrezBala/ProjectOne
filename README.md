@@ -21,6 +21,7 @@ The goal of this project is to entice viewers with an interest in the historical
     + [Home Page](#home-page)
     + [Gallery Page](#about-us-page)
     + [Contact Us Page](#contact-us-page)
+    + [Submitted Page](#Submitted-page)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
   * [Cross-Browser Testing](#cross-browser-testing)
@@ -30,7 +31,7 @@ The goal of this project is to entice viewers with an interest in the historical
   * [Validator Testing](#validator-testing)
   * [Performance Testing](#performance-testing)
   * [Errors, Bugs or Issues During Development](#errors-bugs-or-issues-during-development)
-  * [Considerations for Improvements or Enhancements](#considerations-for-improvements-or-enhancements)
+  * [Improvements for the Site](#Improvements-for-the-site)
 - [Deployment](#deployment)
 - [Credits](#credits)
   * [Code](#code)
@@ -258,6 +259,7 @@ The social media icons on the contact page were sourced from Font Awesome [https
 All text content across the application was composed by myself and also derived information from the links below.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Shogun%27s_Samurai) 
+and
 [Quora](https://www.quora.com/What-is-the-difference-between-a-samurai-and-a-shogun) 
 
 

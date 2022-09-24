@@ -55,7 +55,7 @@ h4 {
 
 #home {
 
-    background:url(samuraiblossom.jpg) no-repeat center center fixed;
+    background:url('../images/mainimages/samuraiblossom.jpg') no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -237,7 +237,7 @@ h4 {
 
 #contactus {
 
-    background:url(contactus2.jpg) no-repeat center center fixed;
+    background:url('../images/mainimages/contactus2.jpg') no-repeat center center fixed;
     display: table;
     height: 50%;
     position: relative;
@@ -360,7 +360,7 @@ header {
     width: 100%;
 }
 #fixed {
-    background:url(background.jpg) no-repeat center center fixed;
+    background:url('../images/mainimages/background.jpg') no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;

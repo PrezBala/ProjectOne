@@ -148,9 +148,9 @@ I tested the site across differing devices, using my old model iPhone 8, Dell La
 -----------------------------
 Throughout the process of creating the site, i've used Google Chromes Developer tools to test the responsiveness of the site. I've used 3 seperate dimensions to test and design the site for different screen sizes. 
  
-+ 800px width and below (medium screen size)
-+ 600px width and below (small screen size)
-+ 400px width and below (ultra small screen size)*
++ 1280px width and below 
++ 800px width and below 
++ 400px width and below 
 -------------------------------
 
 ## User Testing
@@ -162,39 +162,38 @@ I've also ensured the Contact Us form correctly sends the user to the thankyou p
 
 The HTML of the website was tested using the validator at [https://validator.w3.org/]. 
 
-+ Duplicate ID tags in Homepage "top-image" and "link-panel".
+I've been advised of the below errors and have now corrected all of them and the site passed the validator.
 
-All of these errors were corrected and now the entire sites pages passes this validator.
++ Missing closing tag for images within Gallery.
++ Footer link error for social links.
++ Missing <"/div"> within contact us page.
 
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/htmlcheck.jpg">
 
 The CSS was tested using the validator at [https://jigsaw.w3.org/css-validator/] and no errors were reported.
 
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/jigsaw.jpg">
+
+
 ## Performance Testing
 
-I tested the website performance using Lighthouse in Google Chrome Developer Tools, and was satisfied with the results, varying from 95 to 100%. Results are seen below:
+I used the extension "Lighthouse" within Google Chrome Developer Tools and the results ranged from 90% - 93% which i am content with.
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/lighfgfuse.png">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/lighthouse.jpg">
 
 ## Errors, Bugs or Issues During Development
 
-During development I wanted to use only 2 CSS breakpoints using media queries at 800 and 600px sizes. However the main menu was not rendering properly on some screen sizes below 600px. One method to rectify this was to further reduce padding and text size, but I found doing this would make the link text extremely small on screen sizes on the lower end of the 600px breakpoint. Thus, I introduced an "ultra small" breakpoint for screen sizes 400px and below. The error in question is shown in following image:
+While testing several devices i encountered an issue with the contact us form. On smaller screened iphones i found the contact us page spread across the screen where the user is unable to read what the entry field correlates to. After several alterations and testing within CSS and adjusting the size i eventually got the table to a size i am happy with as shown below.
 
-<img src="https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/blob/main/wireframesScreenshots/issfgf.png">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/smallphone.jpg">
 
-This was rectified using the smaller breakpoint and the menu now displays properly on all viewports.
+## Improvements for the Site
 
-## Considerations for Improvements or Enhancements
+During the finalizing process of developing the site, i soon thought of several different methods of how i could have improved this site and implement these ideas in the future for other projects:
 
-During development of the project, I began to consider a couple of methods on how to improve this application in the future and also perhaps use these methods in other future projects:
++ Improve the aesthetic for smaller devices when viewing the footer, initially i liked the "stacked" style of it but thought perhaps it might appear too clunky and should match how the site looks on larger screens.
 
-+ Use "Burger" style menu for mobile screen sizes. This would take away the need to style the menu links individually for each screen size, thus the solution would be one burger style menu for all sizes under 800px width.
-
-+ Use Flexbox or Grid for site structure. Throughout this application I positioned elements using floats and percentage widths, with margins and paddings in rem units. While I feel I achieved the desired results, a quick research of using flexbox and grid position would have cut my development time and is certainly worth considering for future projects, depending on project size and scope.
-
-+ Ideally the "Back to Top" button on the Menu page should only appear after the user has scrolled down the page some ways, and not always be visible as it is currently. From my research this would be solved using a lot of complex CSS which I felt was outside my timeframe, thus a solution using JavaScript would be an ideal fix in future.
-
-+ In the footer, there is text showing when the website was last updated, this is just hardcoded at the moment, but in a future version this website could be connected to a backend with programming scripts to auto-populate this piece of text with the current time and date.
++ Use higher resolution images especially for the header logo, as this counted towards my grading for the "lighthouse" check i've used in Google developer tools.
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
@@ -202,21 +201,22 @@ During development of the project, I began to consider a couple of methods on ho
 
 # Deployment
 
-### The steps undertaken to deploy this website to Github Pages is as follows:
+### The steps to deploy the website to Github Pages below:
 
 1. I accessed the Code Institute template at [https://github.com/Code-Institute-Org/gitpod-full-template] and clicked on the "Use This Template" button.
-2. The next step was to give my repository a suitable name on Github, and create it thereafter.
-3. On the following page I clicked on the green Gitpod button, which is accessible having installed the Gitpod extension to Google Chrome browser.
+2. The next step, i gave my repository a suitable name.
+3. I clicked on the green Gitpod button (using browser extensions on Google Chrome)
 4. This created my development environment on Gitpod where I began to push the incremental changes to the live hosted site.
-5. To create the hosted site at Github Pages, I navigated to the Github repo settings tab and found the Github pages dedicated section.
-6. From there in the Source dropdown menu I clicked on "main", and then "Save", from which I was supplied a live link that would be ready in a few minutes. Live link is available here [https://kevinjohnkiely.github.io/la-rosa-restaurant-prosdsdct-1/]
+5. I navigated to the Github repo settings tab and found the Github pages dedicated section.
+6. Within the Source dropdown menu I clicked on "main", and then "Save". Live link is available here [https://prezbala.github.io/ProjectOne/index.html]
 
-### To run and test this application on your local machine:
+### To test this on my local machine i followed the steps below.
 
-1. Navigate to the Github repo at [https://github.com/kevinjohnkiely/la-rosa-restaurant-psdsdect-1]
+1. Navigate to the Github repo at [https://github.com/PrezBala/ProjectOne]
 2. Click on the Code button, then Download ZIP.
-3. Extract the zip file to your local machine.
-4. Run the index.html file in any browser of your choice.
+3. Copy the URL provided.
+4. Open a bash terminal, move to your desired directory.
+5. Type 'git clone' and paste in the URL.
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
@@ -236,7 +236,7 @@ All image content for the project i found via google images.
 
 ## Fonts
 Just one font was used throughout the website, with varying weight for headings and body text.
-[Raleway Font](https://fonts.google.com/specimen/Raleway)
+[Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker)
 
 ## Colours
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/colourslots.png">
@@ -254,6 +254,10 @@ The colours used throughout the website are (and their Hexadecimal code):
 The social media icons on the contact page were sourced from Font Awesome [https://fontawesome.com/]
 
 ## Text Content
-All text content across the application was composed by myself from scratch.
+All text content across the application was composed by myself and also derived information from the links below.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Shogun%27s_Samurai) 
+[Quora](https://www.quora.com/What-is-the-difference-between-a-samurai-and-a-shogun) 
+
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 

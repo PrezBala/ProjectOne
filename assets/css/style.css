@@ -82,7 +82,7 @@ h4 {
 
 #gallery {
 
-    background:url('/mainimages/gallery4.jpg') no-repeat center center fixed;
+    background:url('assets/images/mainimages/gallery4.jpg') no-repeat center center fixed;
     display: table;
     height: 50%;
     width: 100%;

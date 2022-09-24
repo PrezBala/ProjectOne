@@ -225,11 +225,12 @@ During the finalizing process of developing the site, i soon thought of several 
 # Credits
 
 ## Code
-+ The code for the hero image with animation on the homepage was taken and modified from the Love Running walkthrough project offered by Code Institute. Some small modifications were made to this code to suit my project.
-+ The code for the social icons section on the Contact Us page was also taken from the aforementioned Love Running walkthrough project, with some modifications to suit.
-+ The code for the contact form on the Contact Us page was taken and modified to suit from W3 Schools at: [https://www.w3schools.com/howto/howto_css_contact_form.asp]
 
-All other HTML and CSS code was composed by myself.
++ The code for the social icons/Header style was derived using Bootstrap frameworks
++ The code for the hero image with animation on the homepage was taken and modified from the Love Running walkthrough project offered by Code Institute. I made small modifications to suit my project.
++ The Slack community. The help a student is able to receive from the other students is a really great tool to have.
++ The code for the social icons/Header style was derived using Bootstrap frameworks
++ My Mentor Andre Aquilina who has provided me several tips/advise which has helped me in figuring out bugs i encountered during testing phases.
 
 ## Images
 All image content for the project i found via google images.

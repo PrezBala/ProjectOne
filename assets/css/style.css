@@ -249,7 +249,7 @@ h4 {
 
 #submitted {
 
-    background:url(contactus2.jpg) no-repeat center center fixed;
+    background:url('../images/mainimages/contactus2.jpg') no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;

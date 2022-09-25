@@ -60,7 +60,7 @@ The main purpose for the website is to serve as a central hub of information on 
 ## Wireframes
 The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [MockPlus](https://user.mockplus.com/signin?next=https://app.mockplus.com/app).
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/Homepage1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/homepage1.jpg">
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 

@@ -215,9 +215,9 @@ During the finalizing process of developing the site, i soon thought of several 
 
 1. Navigate to the Github repo at [https://github.com/PrezBala/ProjectOne]
 2. Click on the Code button, then Download ZIP.
-3. Copy the URL provided.
-4. Open a bash terminal, move to your desired directory.
-5. Type 'git clone' and paste in the URL.
+3. Extracted / Saved the ZIP to a secure location on my machine.
+4. Ran the file on a browser of my choice (i.e. Chrome)
+
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
@@ -230,7 +230,7 @@ During the finalizing process of developing the site, i soon thought of several 
 + The code for the social icons/Header style was derived using Bootstrap frameworks
 + The code for the hero image with animation on the homepage was taken and modified from the Love Running walkthrough project offered by Code Institute. I made small modifications to suit my project 
 + I've looked at websites created by other students within Slack to see how they've structured there code and also there read me files which helped influence my own version.
-the student codes i took influence from were (https://github.com/jboyd8/milestone-project-1) and (https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/)
+the student codes i took influence from were (https://github.com/jboyd8/milestone-project-1) , (https://github.com/kevinjohnkiely/la-rosa-restaurant-project-1/) and (https://github.com/BenD2525/the-rescuers-p1). 
 + The Slack community. The help a student is able to receive from the other students is a really great tool to have.
 + The code for the social icons/Header style was derived using Bootstrap frameworks
 + My Mentor Andre Aquilina who has provided me several tips/advise which has helped me in figuring out bugs i encountered during testing phases.

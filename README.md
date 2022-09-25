@@ -242,10 +242,10 @@ Just one font was used throughout the website, with varying weight for headings 
 
 ## Colours
 <img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/colourslots.png">
-The colour scheme employed in the project arose from searching for "Rose" Hexademical colour in the following
-website, and using some of the complimentary colour scheme panel.
 
-[Canva Complimentary Colours](https://www.canva.com/colors/color-meanings/rose/)
+I found the colour scheme using 'Coolors' and used some of the complimentary colour scheme for the site.
+
+[Coolors](https://coolors.co/)
 
 The colours used throughout the website are (and their Hexadecimal code):
 + Dark Salmon #E45845

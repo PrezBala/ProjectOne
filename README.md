@@ -1,6 +1,6 @@
 # Emperors Shogun - Project 1
 
-<img src= "https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/platforms.jpg">
+<img src= "https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/platforms.jpg">
 
 This website is a historical detail of the Shogun and the Samurai era. Detailing the hierarchy and armaments the warriors wore during the 12th century in Japan. The website viewers are also able to view a gallery showcasing the types of Samurai equipment used and also view two videos from youtube giving a brief explanation on the Samurai and Shogun titles.
 
@@ -60,7 +60,7 @@ The main purpose for the website is to serve as a central hub of information on 
 ## Wireframes
 The following image shows a wireframe of each of the 4 pages of the site. These wireframes were created using [MockPlus](https://user.mockplus.com/signin?next=https://app.mockplus.com/app).
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/homepage1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/homepage1.jpg">
 
 [Back to Table of Contents](https://github.com/PrezBala/ProjectOne#table-of-contents) 
 
@@ -73,11 +73,11 @@ The common elements across all 3 pages are the Header and Footer sections.
 
 + The Header- This sections appears across the top on all 3 pages and also contains a samurai helmet logo on the left. When selecting the helmet the user will return to the top of the homepage. The navigation menu is also positioned on the right. Both the logo and menu will respond to the screen sizes used. The navigation menu on certain phones will use a 'burger' style selection menu.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/header1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/header1.jpg">
 
 + The Footer - The section appears across the bottom on all 3 pages. There is a contact us section on the left with a button that will take the user directly to the contact us page. In the centre of the footer is the social links for Facebook,Twitter,Googlemail and Twitter and on the right is a samurai logo for aesthetics.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/footer1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/footer1.jpg">
 
 ### Home Page
 This is the main landing page which the user will be first presented with. By using a eye catching image and colours i hope to keep users interested in viewing the site. This page contains the following elements below:
@@ -85,39 +85,39 @@ This is the main landing page which the user will be first presented with. By us
 + Hero Image - The image spans across the full width of the page and very eye catching showing a samurai looking towards the direction of a cherry tree. I've also added text over the central part of the image with the name of the site 'Emperors Shogun' with smaller text 'and the samurai guards'.
 This is in a font style which is in a japanese calligraphy style.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/mainimage1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/mainimage1.jpg">
 
 + Descriptive text - This section is beneath the main hero image and highlights on three points. 'Who were the Shogun and the Samurai" the 'Samurai Armor' and the 'Samurai Weapon'. I've added text detailing each of the 3 sections and also added relevant imagery beside the texts. 
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/text1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/text1.jpg">
 
 + Secondary Hero Image - This image is added for aesthetic reasons to make the website more visually appealing and also to show an image of what the website is based on, to keep the user further interested.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/mainimage2.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/mainimage2.jpg">
 
 + Additional Descriptive text - This is the final descriptive text on this specific page, answering a question which is quite common for this part of Japanese history 'What is the difference between a Shogun and a Samurai' I've also added an image on the right side of the text for the page aesthetics.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/text2.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/text2.jpg">
 
 ### Gallery Page
 
 This is the second page of the website and showcases 17 images and 2 videos (linked to youtube). The images are arranged out in a grid area and each image when hovered over shows a text commenting on what the image relates to. I've also ensured when selecting the image this will open a new page allowing the user to view the image clearly. 
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/gallery1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/gallery1.jpg">
 
 Further down the Gallery page, i've added text using the same Japanese calligraphy style/color i've used on the other page for consistency. The text advises the user to view the videos linked directly to youtuve for further information on the 'Life of a Samurai' and a quick 'Shogunate Japan in 2 minutes".
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/gallery2.jpg">  
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/gallery2.jpg">  
 
 ### Contact us page
 The Contact us page contains a table which can be filled on the four sections. I ensured the background of the table matches the header/footer color for aesthetics and also the text to be easily visible. This page primary function is for users to submit any additional questions they may have on the historic events during the Shogun dynasty. 
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/contactus1.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/contactus1.jpg">
 
 ### Submitted page
 The submission page generates once the user has submitted there details across via the contact us form. This page also has a link within the text to take the user back to the home page.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/submitted.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/submitted.jpg">
 
 <hr>
 
@@ -169,24 +169,24 @@ I've been advised of the below errors and have now corrected all of them and the
 + Footer link error for social links.
 + Missing <"/div"> within contact us page.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/htmlcheck.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/htmlcheck.jpg">
 
 The CSS was tested using the validator at [https://jigsaw.w3.org/css-validator/] and no errors were reported.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/jigsaw.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/jigsaw.jpg">
 
 
 ## Performance Testing
 
 I used the extension "Lighthouse" within Google Chrome Developer Tools and the results ranged from 90% - 93% which i am content with.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/lighthouse.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/lighthouse.jpg">
 
 ## Errors, Bugs or Issues During Development
 
 While testing several devices i encountered an issue with the contact us form. On smaller screened iphones i found the contact us page spread across the screen where the user is unable to read what the entry field correlates to. After several alterations and testing within CSS and adjusting the size i eventually got the table to a size i am happy with as shown below.
 
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/smallphone.jpg">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/smallphone.jpg">
 
 ## Improvements for the Site
 
@@ -243,7 +243,7 @@ Just one font was used throughout the website, with varying weight for headings 
 [Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker)
 
 ## Colours
-<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframeScreenshots/colourslots.png">
+<img src="https://github.com/PrezBala/ProjectOne/blob/main/wireframescreenshots/colourslots.png">
 
 I found the colour scheme using 'Coolors' and used some of the complimentary colour scheme for the site.
 

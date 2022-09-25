@@ -25,6 +25,8 @@ html, body {
     color: #E45845;
 }
 
+/*Text sizes and style Section*/
+
 h1 {
     font-family: Permanent Marker, sans-serif;
     letter-spacing: 5px;
@@ -64,20 +66,6 @@ h4 {
 
 
     
-}
-
-
- /* creates the level of zoom for the hero image */
-
- @keyframes hero-image-zoom {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-
 }
 
 #gallery {
@@ -368,6 +356,9 @@ header {
     background-size: cover;
 
 }
+
+/*footer*/
+
 footer {
 
     width: 100%;
@@ -389,6 +380,8 @@ footer {
 .icon {
     max-width: 200px;
 }
+
+/*Submit and Reset Section*/
 
 input[type=submit] {
     background-color: #646E56;
@@ -422,7 +415,7 @@ input[type=reset]:hover {
     color: #646E56;
 }
 
-
+/*screen sizes*/
 @media (max-width: 1280px) {
     .landing-text h1 {
         font-size:170%;

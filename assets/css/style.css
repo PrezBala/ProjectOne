@@ -357,6 +357,11 @@ header {
 
 }
 
+::placeholder { 
+    color: #E45845;
+    opacity: 1; 
+  }
+
 /*footer*/
 
 footer {
